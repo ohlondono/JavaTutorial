@@ -24,6 +24,7 @@ public class SwitchCheck {
 			System.out.println("Machine Stopped!");
 			break;
 		default:
+			System.out.println("Command not recognized!");
 			break;
 		}
 
